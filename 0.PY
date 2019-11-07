@@ -19,3 +19,5 @@ print(x+x)
 # git branch -D NAMA_BRANCH_NYA     ==> untuk ngehapus cabang (kitanya harus ke master dulu)
 # git merge NAMA_BRANCH_NYA     ==> untuk ngegabung cabang dengan master
 # git checkout -b NAMA_BRANCH_NYA   ==> langsung bikin cabang sekaligus pindah ke cabang itu
+
+# git clone LINK_NYA    ==> buat ngeduplikat file dari github
