@@ -17,4 +17,5 @@ print(x+x)
 # git branch -a     ==> untuk ngeliat ada cabang apa aja
 # git checkout NAMA_BRANCH_NYA      ==> untuk pindah ke branch dari master atau branch lain
 # git branch -D NAMA_BRANCH_NYA     ==> untuk ngehapus cabang
-print('Halo')
+# git merge NAMA_BRANCH_NYA     ==> untuk ngegabung cabang dengan master
+# git checkout -b NAMA_BRANCH_NYA   ==> langsung bikin cabang sekaligus pindah ke cabang itu
